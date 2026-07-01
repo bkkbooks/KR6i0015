@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0015/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說諸佛經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0439.xml
+    old_id: T14n0439
+hash: sha256:188dd2332c1aa88be24fb876f358a57f934a39e8cf99e3e7a17a844415a0333c
